@@ -10,6 +10,7 @@ The project aims to:
 
   
 Here is the first simulation result: 
+
 ![Conoscopic intensity pattern simulation for an uniaxial birefringent crystal](Intensity_pattern_iso.png)
 
 here is the real life photography of the effect, who was nominated  𝐈𝐦𝐚𝐠𝐞 𝐨𝐟 𝐭𝐡𝐞 𝐖𝐞𝐞𝐤 
