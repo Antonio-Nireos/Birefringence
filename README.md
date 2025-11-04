@@ -15,4 +15,5 @@ Here is the first simulation result:
 here is the real life photography of the effect, who was nominated  𝐈𝐦𝐚𝐠𝐞 𝐨𝐟 𝐭𝐡𝐞 𝐖𝐞𝐞𝐤 
 by Optica’s Optics & Photonics News:
 
+![Photo of the Conoscopic intensity pattern for an uniaxial birefringent crystal](Intensity_pattern_iso_real_photo.png)
 
