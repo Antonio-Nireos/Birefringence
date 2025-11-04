@@ -18,3 +18,5 @@ by Optica’s Optics & Photonics News:
 
 ![Photo of the Conoscopic intensity pattern for an uniaxial birefringent crystal](Intensity_pattern_iso_real_photo.png)
 
+
+To reproduce or modify the simulation, just download the repository and run the 'SimulationBirefringenceIntensityPattern_iso.m' MATLAB file, change the parameters as desired, change the material by changing the refractive index table contained in the 'birefringence.mat' file.  I might convert the script to python in future, feel free to do it before me and then adding it to the repository.
