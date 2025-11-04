@@ -7,3 +7,7 @@ The project aims to:
 - Offer easy-to-use simulation tools for birefringence-based effects.
 
 - Provide didactic examples for teaching and learning polarization optics.
+
+  
+Here is the first result: 
+![Conoscopic intensity pattern simulation for an uniaxial birefringent crystal](Intensity_pattern_iso.png)
